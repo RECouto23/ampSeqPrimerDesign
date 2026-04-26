@@ -45,8 +45,7 @@ The script expects a **tab-delimited BED file with no header** and the following
 
 Example:
 ```
-chr2    73160351    73160371    CCR5_Site1    0    +
-chr17   41244000    41244020    BRCA1_Site1   0    +
+chr3    70954708    70954709    FOXP1    0    +
 ```
 
 > The target coordinates should represent the center of your desired amplicon (e.g. the cut site). The script automatically expands each interval by the design space buffer to define the primer search region.
