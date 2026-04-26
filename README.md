@@ -1,6 +1,6 @@
 # ampSeqPrimerDesign
 
-A Python script for designing amplicon sequencing primer sets at user-defined genomic target sites. Primers are designed using the Primer3 engine and automatically adapted with SP5/SP7 Illumina-compatible handle sequences. Output is written to two CSV files — one containing the bare gene-specific primers (GSPs) and one containing the fully adapted sequences ready for ordering.
+A Python script for designing amplicon sequencing primer sets at user-defined genomic target sites. Primers are designed using the Primer3 engine and automatically adapted with TruSeq SP5/SP7 Illumina-compatible handle sequences. Output is written to two CSV files — one containing the bare gene-specific primers (GSPs) and one containing the fully adapted sequences ready for ordering.
 
 ---
 
