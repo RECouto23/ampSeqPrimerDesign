@@ -1,0 +1,14 @@
+name: ampseq_primer_design
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - primer3-py
+  - pandas
+  - pybedtools
+  - bedtools
+  - openpyxl
+  - pyyaml
+  - pip
